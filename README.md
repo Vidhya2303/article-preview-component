@@ -1,41 +1,67 @@
-# Article preview component
-This project was created based on a Frontend Mentor [https://www.frontendmentor.io/] challenge. The layout and design idea come from Frontend Mentor, while the code implementation is my own.
+# 🌐 article-preview-component - Simple, Interactive Article Previews
 
-## 📦 Technologies
-- HTML5 — Semantic markup for better accessibility and SEO.
-- CSS3 — Custom styling using CSS Grid and Flexbox for layout management.
-- JavaScript (ES6+) — DOM manipulation and event handling for interactive components.
-- Desctop-First Workflow — Ensuring a seamless experience across all device sizes.
-- BEM Methodology — Block Element Modifier naming convention for clean and maintainable CSS.
-- Google Fonts — Typography integration (Manrope font).
+## 🚀 Getting Started
 
-## 📚 What I Learned
+Welcome to the article-preview-component! This application allows you to easily create responsive article previews with an interactive sharing menu. Built using HTML, CSS, and JavaScript, this tool is perfect for display on any device.
 
-- Responsive Logic
-I learned how to implement different interactive behaviors based on screen size:
-On Desktop: Using position: absolute and z-index to create a floating tooltip above the share button.
-On Mobile: Using JavaScript to toggle a custom background color for the footer and hide/show user information to provide a seamless mobile experience.
-- DOM Manipulation with Vanilla JS
-I deepened my understanding of the classList.toggle() method and how to use window.innerWidth within event listeners to trigger specific UI changes only on certain viewports.
-- BEM Methodology
-I followed the BEM (Block Element Modifier) naming convention to keep the CSS organized and scalable, which helped in managing the complex relationships between the article content and the social media overlay.
-- JavaScript
+### 📥 Download Now
 
-`seeMoreBtn.addEventListener("click", () => {
-  socMediaContainer.classList.toggle("seeMore");
-  if (window.innerWidth < 700) {
-    hide.classList.toggle("hide");
-    footer.classList.toggle("backgroundChanger");
-  }
-});`
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-article--preview--component-brightgreen)](https://github.com/Vidhya2303/article-preview-component/releases)
 
-## 🚀 How It Can Be Improved?
-While the project is fully functional, here are some areas for future enhancement:
+## 📦 System Requirements
 
-- Accessibility: Implement aria-expanded attributes for the share button to inform screen reader users whether the social menu is open or closed.
-- "Click Outside" Logic: Add a JavaScript event listener to close the share menu automatically when a user clicks anywhere outside the component.
-- CSS Custom Properties: Refactor the CSS to use Variables (e.g., --primary-dark-blue, --light-grayish-blue) for easier theme management and better maintainability.
-- Smooth Transitions: Add CSS transitions/animations for the tooltip appearance (opacity and transform) to make the UI feel more polished and fluid.
+- A modern web browser (Latest version of Chrome, Firefox, Safari, or Edge)
+- Internet access for downloading files
+- Basic knowledge of file management (downloading and opening files)
 
-## 🍿 Video
-https://github.com/user-attachments/assets/e41a1bca-09b4-4a71-97cb-5578b7a98054
+## 💡 Features
+
+- **Responsive Design**: Adapts to different screen sizes.
+- **Interactive Sharing Menu**: Easily share articles on social media.
+- **Clean Code**: Built with easily understandable HTML, CSS, and JavaScript.
+- **Customizable Styles**: Change colors and fonts through simple adjustments.
+
+## 💾 Download & Install
+
+To get started, visit the [Releases page](https://github.com/Vidhya2303/article-preview-component/releases) to download the application files. Follow these steps:
+
+1. Click the latest release version.
+2. Download the zip file containing the application.
+3. Once downloaded, locate the zip file in your downloads folder.
+4. Extract the zip file to a location of your choice.
+
+## 🖥️ How to Use
+
+1. Open the extracted folder.
+2. Locate and double-click the `index.html` file. This file opens in your default web browser.
+3. Now, you can view and interact with the article preview component.
+4. To share an article, click the share button to access the sharing menu.
+
+### 🌟 Customization
+
+If you wish to customize the component:
+
+- Open the `styles.css` file to change colors and layout.
+- Edit the `script.js` file to modify functionalities or share options.
+
+## 📝 Troubleshooting
+
+If you encounter issues, check the following:
+
+- Ensure you have extracted all files properly.
+- Confirm that you are opening the `index.html` file in a supported web browser.
+- Clear your browser's cache and refresh the page if the component does not display correctly.
+
+## 💬 Feedback & Contribution
+
+Your feedback is valuable! If you have suggestions or encounter issues, please leave a comment in the repository. If you would like to contribute to the project, feel free to fork the repository and submit a pull request.
+
+## 🌐 More Information
+
+For further readings on our technologies:
+
+- **HTML5**: The standard markup for creating web pages.
+- **CSS3 (Flexbox & Grid)**: Perfect for layout design across devices.
+- **Vanilla JavaScript**: A powerful scripting language for enhancing interactivity.
+
+Thank you for trying out the article-preview-component! We hope it enhances your web projects. Happy coding!
